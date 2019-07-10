@@ -22,5 +22,8 @@
   // n 是代表同时对n个rbd镜像进行备份，也是代表线程个数  
   ```python main.py -s n```  
 
+- 日志输出  
+  日志文件在 /var/log/cephdiff.log  
+
 # 开发人员
 @坤爷
